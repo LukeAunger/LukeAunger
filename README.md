@@ -1,8 +1,8 @@
-Hi, I'm Luke Aunger
-I have completed a degree in Computer science and software development.
-I have an interest in coding and problem solving which the two go hand in hand.
-What I have here is a Portfolio of all my projects that I have completed during my time at University and in my spare time.
-I am hoping to build more projects on different areas in development and expand my knowledge to better understand how all things work.
-Should you wish to contact me, email at: LukeAunger@Gmail.com
+Hello
 
-Many thanks
+My name is Luke Aunger and this profile is a collection of code that I worked on during uni and in my spare time.
+I have obtained a Degree in Bsc Hons Computing and Software development obtaining a 2:1 and have worked with various languages
+like C#, .NET, Javascript, Node.JS and Python. I am currently looking at tech based roles and looking for work in a challenging
+and interesting environment where I can learn even more.
+
+Thanks for taking a look.
